@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="fitvroners-spring.fitvroners-be-spring-0.3.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/build/libs/fitvroners-be-spring-0.3.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
